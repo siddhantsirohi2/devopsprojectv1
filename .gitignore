@@ -1,0 +1,29 @@
+# AWS SSH Key
+*.pem
+*.key
+
+# Terraform Secrets
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.pem
+terraform.tfvars
+
+# Secrets directory
+secrets/
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+# Python or Node.js artifacts
+__pycache__/
+*.pyc
+node_modules/
+
+# Docker-related
+*.env
+.env.*
+
+#Personal notes
+Notes/
