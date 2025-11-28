@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
           margin: 0;
         }
         .card {
-          background-color: #d2b11eff;
+          background-color:rgb(189, 156, 9);
           padding: 2rem 3rem;
           border-radius: 1rem;
           box-shadow: 0 0 30px rgba(0,0,0,0.3);
@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
         }
         h1 {
           margin-bottom: 1rem;
-          color: #38bdf8;
+          color:rgb(248, 158, 56);
         }
         p {
           font-size: 1.1rem;
