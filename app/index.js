@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
         }
         h1 {
           margin-bottom: 1rem;
-          color:rgb(248, 158, 56);
+          color:rgb(6, 216, 6);
         }
         p {
           font-size: 1.1rem;
