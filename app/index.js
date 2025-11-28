@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
       <style>
         body {
           font-family: 'Segoe UI', sans-serif;
-          background-color:rgb(34, 232, 84);
+          background-color:rgb(126, 34, 232);
           color: #f8fafc;
           display: flex;
           justify-content: center;
